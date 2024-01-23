@@ -2,7 +2,7 @@
 
 const songsData = [
   {
-    id: 1,
+    id: 2,
     name: "Apna_Bana_Le",
     artist: "Arijit_Singh",
     genre: "Love",
@@ -10,7 +10,7 @@ const songsData = [
     image: "Media/albumArts/Apna Bana Le.jpg",
   },
   {
-    id: 2,
+    id: 1,
     name: "Humari_Adhuri_Kahani",
     artist: "Arijit_Singh",
     genre: "Love",
