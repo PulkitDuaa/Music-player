@@ -6,7 +6,7 @@ const songsData = [
     name: "Apna_Bana_Le",
     artist: "Arijit_Singh",
     genre: "Love",
-    source: "Media/songs/Apna_Bana_Le.mp3",
+    source: "Media/songs/Apna_Bana_Le .mp3",
     image: "Media/albumArts/Apna Bana Le.jpg",
   },
   {
